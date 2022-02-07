@@ -3,7 +3,7 @@
 ## Pomodoro avec ReactJS :
 
 **Fonctionnement :**
-* Avec une classe principale Pomodoro qui lance un intervalle géré avec une série de IF.
+* Avec une classe principale Pomodoro qui lance un intervalle sur une fonction qui est gérée avec une série de IF.
 
 
 **Améliorations possibles :**
